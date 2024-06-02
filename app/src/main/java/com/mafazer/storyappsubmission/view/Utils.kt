@@ -41,3 +41,5 @@ fun formatDate(createdAt: String): String {
         createdAt
     }
 }
+
+//fun asalDulu
